@@ -1,0 +1,5 @@
+{
+    "explorer.fileNesting.expand": true,
+    "material-icon-theme.folders.theme": "specific",
+    "workbench.tree.expandMode": "singleClick"
+}
